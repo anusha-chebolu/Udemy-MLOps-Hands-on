@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anushachebolu/Documents/MLOps/9-data-science-project-with-deployment/mlruns/0/87b1005504964fd7af8f9b69c38293f8/artifacts
+end_time: 1742958697285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87b1005504964fd7af8f9b69c38293f8
+run_name: trusting-fawn-546
+run_uuid: 87b1005504964fd7af8f9b69c38293f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742958694215
+status: 3
+tags: []
+user_id: anushachebolu

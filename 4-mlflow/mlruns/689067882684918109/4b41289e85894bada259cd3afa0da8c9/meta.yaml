@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/689067882684918109/4b41289e85894bada259cd3afa0da8c9/artifacts
+end_time: 1742131821106
+entry_point_name: ''
+experiment_id: '689067882684918109'
+lifecycle_stage: active
+run_id: 4b41289e85894bada259cd3afa0da8c9
+run_name: marvelous-turtle-814
+run_uuid: 4b41289e85894bada259cd3afa0da8c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742131818517
+status: 3
+tags: []
+user_id: anushachebolu

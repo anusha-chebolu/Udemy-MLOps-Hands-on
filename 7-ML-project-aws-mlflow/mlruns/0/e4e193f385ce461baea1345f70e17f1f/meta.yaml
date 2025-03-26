@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anushachebolu/Documents/MLOps/6-ML-project-aws-mlflow/mlruns/0/e4e193f385ce461baea1345f70e17f1f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4e193f385ce461baea1345f70e17f1f
+run_name: carefree-panda-95
+run_uuid: e4e193f385ce461baea1345f70e17f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742584559787
+status: 1
+tags: []
+user_id: anushachebolu

@@ -1,0 +1,14 @@
+pandas
+mlflow
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box ## checkout research/research.ipynb for understanding
+pyYAML
+tqdm
+ensure == 1.0.2 ## checkout research/research.ipynb for understanding
+joblib
+types-pyYAML
+Flask
+Flask-Cors

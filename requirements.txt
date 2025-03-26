@@ -1,0 +1,13 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+mlflow
+ipykernel
+dvc
+dagshub
+boto3
+dvc-s3
+astro-cli

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742131460146
+current_stage: None
+description: ''
+last_updated_timestamp: 1742131460146
+name: iris-model
+run_id: fefc7f43df1f4e69bfe90208a2ac473c
+run_link: ''
+source: mlflow-artifacts:/689067882684918109/fefc7f43df1f4e69bfe90208a2ac473c/artifacts/iris-model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/689067882684918109/fefc7f43df1f4e69bfe90208a2ac473c/artifacts/iris-model
+user_id: null
+version: 2

@@ -1,0 +1,4 @@
+*.pkl
+mlartifacts/
+4-mlflow/mlartifacts/
+5-data-version-control/DVCDEMO

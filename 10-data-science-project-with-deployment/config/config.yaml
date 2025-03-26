@@ -1,0 +1,46 @@
+# Root directory where all artifacts (data, models, logs, etc.) will be stored.
+artifacts_root: artifacts
+
+data_ingestion:
+  # Directory to store artifacts related to the data ingestion process.
+  root_dir: artifacts/data_ingestion
+  # URL from where the dataset (a ZIP file) will be downloaded.
+  source_URL: https://github.com/krishnaik06/datasets/raw/refs/heads/main/winequality-data.zip
+  # Local file path where the downloaded ZIP file will be saved.
+  local_data_file: artifacts/data_ingestion/data.zip
+  # Directory where the downloaded ZIP file will be extracted.
+  unzip_dir: artifacts/data_ingestion
+
+data_validation:
+  # Directory to store artifacts related to data validation.
+  root_dir: artifacts/data_validation
+  # Path to the CSV file (extracted from the ingestion step) that will be validated.
+  unzip_data_dir: artifacts/data_ingestion/winequality-red.csv
+  # File where the status of the data validation (e.g., success/failure) will be recorded.
+  STATUS_FILE: artifacts/data_validation/status.txt
+
+data_transformation:
+  # Directory to store artifacts related to data transformation.
+  root_dir: artifacts/data_transformation
+  # Path to the data file (CSV) that will be used for data transformation tasks like cleaning and feature engineering.
+  data_path: artifacts/data_ingestion/winequality-red.csv
+
+model_trainer:
+  # Directory to store artifacts related to model training.
+  root_dir: artifacts/model_trainer
+  # Path to the training data (generated after data transformation) used to train the model.
+  train_data_path: artifacts/data_transformation/train.csv
+  # Path to the testing data (generated after data transformation) used for model evaluation.
+  test_data_path: artifacts/data_transformation/test.csv
+  # Name of the file where the trained model will be saved.
+  model_name: model.joblib
+
+model_evaluation:
+  # Directory to store artifacts related to model evaluation.
+  root_dir: artifacts/model_evaluation
+  # Path to the testing data used to evaluate the model's performance.
+  test_data_path: artifacts/data_transformation/test.csv
+  # Path to the trained model that will be evaluated.
+  model_path: artifacts/model_trainer/model.joblib
+  # File where the evaluation metrics (e.g., accuracy, F1-score) will be stored in JSON format.
+  metric_file_name: artifacts/model_evaluation/metrics.json

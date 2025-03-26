@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/db6c55ef19a14e3181270e3798e4ce10/artifacts
+end_time: 1742129957403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db6c55ef19a14e3181270e3798e4ce10
+run_name: capable-jay-13
+run_uuid: db6c55ef19a14e3181270e3798e4ce10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742129957371
+status: 3
+tags: []
+user_id: anushachebolu

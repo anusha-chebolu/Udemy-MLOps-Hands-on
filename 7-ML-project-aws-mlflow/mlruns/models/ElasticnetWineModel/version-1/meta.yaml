@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742584493538
+current_stage: None
+description: null
+last_updated_timestamp: 1742584493538
+name: ElasticnetWineModel
+run_id: 179d4e070875434da141d55dd63f2ee0
+run_link: null
+source: file:///Users/anushachebolu/Documents/MLOps/6-ML-project-aws-mlflow/mlruns/0/179d4e070875434da141d55dd63f2ee0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/anushachebolu/Documents/MLOps/6-ML-project-aws-mlflow/mlruns/0/179d4e070875434da141d55dd63f2ee0/artifacts/model
+user_id: null
+version: 1

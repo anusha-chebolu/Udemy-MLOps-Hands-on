@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/689067882684918109/d8f4a124fdab4d818a9654e843d18fc0/artifacts
+end_time: 1742131291852
+entry_point_name: ''
+experiment_id: '689067882684918109'
+lifecycle_stage: active
+run_id: d8f4a124fdab4d818a9654e843d18fc0
+run_name: amazing-owl-149
+run_uuid: d8f4a124fdab4d818a9654e843d18fc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742131288872
+status: 3
+tags: []
+user_id: anushachebolu
