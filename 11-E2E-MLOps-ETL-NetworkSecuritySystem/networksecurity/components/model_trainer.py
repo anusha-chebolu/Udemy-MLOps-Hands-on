@@ -19,8 +19,16 @@ from sklearn.ensemble import (
 )
 import mlflow
 from urllib.parse import urlparse
+import dagshub
+import dotenv
 
+dotenv.load_dotenv()
 
+dagshub.init(repo_owner='anusha-chebolu', repo_name='Udemy-MLOps-Hands-on', mlflow=True)
+
+MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI")
+MLFLOW_TRACKING_USERNAME = os.getenv("MLFLOW_TRACKING_USERNAME")
+MLFLOW_TRACKING_PASSWORD = os.getenv("MLFLOW_TRACKING_PASSWORD")
 
 class ModelTrainer:
     def __init__(self, model_trainer_config: ModelTrainerConfig, data_transformation_artifact:DataTransformationArtifact):
