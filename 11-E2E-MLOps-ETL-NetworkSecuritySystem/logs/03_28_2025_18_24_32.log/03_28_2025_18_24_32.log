@@ -1,0 +1,6 @@
+[ 2025-03-28 18:24:33,923 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-28 18:24:33,927 ] 107 dagshub - INFO - Accessing as anusha-chebolu
+[ 2025-03-28 18:24:34,079 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/anusha-chebolu/Udemy-MLOps-Hands-on "HTTP/1.1 200 OK"
+[ 2025-03-28 18:24:34,175 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-28 18:24:34,176 ] 107 dagshub - INFO - Initialized MLflow to track repo "anusha-chebolu/Udemy-MLOps-Hands-on"
+[ 2025-03-28 18:24:34,176 ] 107 dagshub - INFO - Repository anusha-chebolu/Udemy-MLOps-Hands-on initialized!
