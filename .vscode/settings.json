@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+      "/opt/anaconda3/envs/mlops/lib/python3.12/site-packages"
+    ]
+  }
+  
