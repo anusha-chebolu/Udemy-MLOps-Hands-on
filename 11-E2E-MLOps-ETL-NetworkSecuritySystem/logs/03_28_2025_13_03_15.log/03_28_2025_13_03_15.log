@@ -1,0 +1,11 @@
+[ 2025-03-28 13:03:16,343 ] 14 root - INFO - Initiate the data ingestion
+[ 2025-03-28 13:03:20,689 ] 77 root - INFO - Performed train-test split on the dataframe.
+[ 2025-03-28 13:03:20,715 ] 89 root - INFO - Exported training and testing datasets.
+[ 2025-03-28 13:03:20,715 ] 16 root - INFO - Data Initiation Completed
+[ 2025-03-28 13:03:20,718 ] 22 root - INFO - Initiate the data validation
+[ 2025-03-28 13:03:20,733 ] 31 root - INFO - Required number of columns: 2
+[ 2025-03-28 13:03:20,733 ] 32 root - INFO - Data Frame has columns: 31
+[ 2025-03-28 13:03:20,733 ] 31 root - INFO - Required number of columns: 2
+[ 2025-03-28 13:03:20,733 ] 32 root - INFO - Data Frame has columns: 31
+[ 2025-03-28 13:03:20,733 ] 48 root - INFO - All numerical columns exist in the dataframe.
+[ 2025-03-28 13:03:20,733 ] 48 root - INFO - All numerical columns exist in the dataframe.
