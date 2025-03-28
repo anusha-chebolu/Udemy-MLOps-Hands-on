@@ -1,0 +1,3 @@
+[ 2025-03-28 11:40:57,669 ] 13 root - INFO - Initiate the data ingestion
+[ 2025-03-28 11:41:10,791 ] 77 root - INFO - Performed train-test split on the dataframe.
+[ 2025-03-28 11:41:10,817 ] 89 root - INFO - Exported training and testing datasets.
